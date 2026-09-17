@@ -1,4 +1,4 @@
-# 👋 Hola, benvingut/da al meu perfil!
+# 👋 Hola, són l'Eloi Cavallé!
 
 Sóc estudiant a l'**Institut Tecnològic de Barcelona**, cursant el **primer any de DAM (Desenvolupament d'Aplicacions Multiplataforma)**.
 
