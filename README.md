@@ -1,5 +1,12 @@
-## Hi there 👋
+# 👋 Hola, benvingut/da al meu perfil!
 
+Sóc estudiant a l'**Institut Tecnològic de Barcelona**, cursant el **primer any de DAM (Desenvolupament d'Aplicacions Multiplataforma)**.
+
+## 🎓 Sobre mi
+
+- 💻 Actualment aprenent programació i desenvolupament d'aplicacions
+- 📚 En procés de formació dins el cicle formatiu de DAM
+- 🚀 Interessat/da a créixer com a desenvolupador/a i millorar les meves habilitats dia a dia
 <!--
 **eloicavalle/eloicavalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
